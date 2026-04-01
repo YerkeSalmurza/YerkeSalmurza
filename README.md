@@ -1,6 +1,6 @@
 # Hi, I'm Yerke 👋
 
-BI Analyst/Developer with 4+ years of experience in fintech and telecom.  
+BI & Data Analyst with 5+ years of experience in fintech and telecom.  
 I specialize in building BI solutions in Power BI, optimizing data marts, and automating reporting.
 
 ## 🔭 What I'm currently working on
@@ -13,8 +13,8 @@ I specialize in building BI solutions in Power BI, optimizing data marts, and au
 ![Dataflow](https://img.shields.io/badge/Power%20BI-Dataflow-yellow)
 
 ## 📜 Certifications
-- ✅ Microsoft Power BI Data Analyst Associate (2021)
-- ✅ Microsoft MTA Database Fundamentals (2022)
+- ✅ [Microsoft Power BI Data Analyst Associate (2021)](https://learn.microsoft.com/en-us/users/yerkesalmurza/credentials/certification/data-analyst-associate?tab=credentials-tab)
+- ✅ [Microsoft MTA Database Fundamentals (2022)](https://learn.microsoft.com/en-us/users/yerkesalmurza/credentials/certification-o-/mta-database-fundamentals?tab=credentials-tab)
 - ✅ Product Masters: Data Analyst (2025)
 - 🔄 Data Engineer Course (in progress)
 
