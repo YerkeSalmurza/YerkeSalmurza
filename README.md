@@ -3,11 +3,14 @@
 BI Analyst/Developer with 4+ years of experience in fintech and telecom.  
 I specialize in building BI solutions in Power BI, optimizing data marts, and automating reporting.
 
+## 🔭 What I'm currently working on
+- Completing a **Data Engineer** course to expand into data pipelines
+
 ## 🛠️ Tools I use
 ![SQL](https://img.shields.io/badge/SQL-MS%20SQL%20%7C%20PostgreSQL%20%7C%20Oracle-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Power%20Query-yellow)
 ![Excel](https://img.shields.io/badge/Excel-Power%20Query%20%7C%20Pivot-green)
-![Airflow](https://img.shields.io/badge/Airflow-Orchestration-red)
+![Dataflow](https://img.shields.io/badge/Power%20BI-Dataflow-yellow)
 
 ## 📜 Certifications
 - ✅ Microsoft Power BI Data Analyst Associate (2021)
@@ -17,4 +20,5 @@ I specialize in building BI solutions in Power BI, optimizing data marts, and au
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yerke%20Salmurza-blue)](https://linkedin.com/in/yerke-salmurza)
+[![Telegram](https://img.shields.io/badge/Telegram-@eldehea-2CA5E0)](https://t.me/eldehea)
 [![Email](https://img.shields.io/badge/Email-yerke.salmurza%40gmail.com-red)](mailto:yerke.salmurza@gmail.com)
